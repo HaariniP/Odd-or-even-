@@ -16,3 +16,10 @@ system out.println(i+”is odd”);
 }
 }
 }
+
+Output 
+I is odd
+2 is even
+3 is odd
+4 is even
+5 is add
